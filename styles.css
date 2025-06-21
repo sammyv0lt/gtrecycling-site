@@ -47,15 +47,16 @@
       background-color: #f0c93d;
     }
 
-    /*
+    
     .section {
       padding: 60px 20px;
       text-align: center;
     }
-    */
+    
     .section h2 {
       font-size: 2em;
       margin-bottom: 20px;
+      text-align: center;
     }
     
     .columns {
