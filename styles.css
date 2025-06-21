@@ -53,12 +53,7 @@
       text-align: center;
     }
     
-    .section h2 {
-      font-size: 2em;
-      margin-bottom: 20px;
-      text-align: center;
-    }
-    
+       
     .columns {
       display: flex;
       flex-wrap: wrap;
